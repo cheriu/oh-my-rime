@@ -22,7 +22,7 @@ schema:
 
 switches:
   - name: ascii_mode
-    reset: 0
+    reset: 1
     states: [ 中文, 英文 ]
   - name: emoji_suggestion
     states: [ "😣️","😁️"]
